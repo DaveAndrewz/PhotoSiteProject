@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita:wght@400;700;900&display=swap');
+/* font-family: 'Sansita', sans-serif; */
+
+body {
+    background-color: rgb(20, 20, 20);
+}
+
+p {
+    font-family: 'Sansita', sans-serif;
+    color: snow;
+    font-weight: 900;
+}
